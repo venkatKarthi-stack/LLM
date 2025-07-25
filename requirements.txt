@@ -7,3 +7,4 @@ imap-tools
 azure-storage-blob
 pandas
 requests
+pyodbc
