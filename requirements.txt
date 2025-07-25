@@ -1,4 +1,9 @@
-pytesseract
-Pillow
 streamlit
+pillow
+pytesseract
+python-dotenv
+openai
+imap-tools
+azure-storage-blob
 pandas
+requests
